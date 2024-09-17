@@ -1,6 +1,6 @@
 ---
 name: vscode-curry
-version: 3acba6987533bc45cb05af365464f4486a9d1c35
+version: 0f43e53f5888dfed22dc777a45b4c9db99efe9ef
 type: git_submodule
 homepage: https://github.com/fwcd/vscode-curry
 license: mit

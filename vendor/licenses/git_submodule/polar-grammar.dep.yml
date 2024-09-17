@@ -1,6 +1,6 @@
 ---
 name: polar-grammar
-version: 4262a44781e634d0c751498b27d0327b7ff56f27
+version: 590c3b1b6eff477f9dde36f968c119c01f935f74
 type: git_submodule
 homepage: https://github.com/osohq/polar-grammar.git
 license: apache-2.0

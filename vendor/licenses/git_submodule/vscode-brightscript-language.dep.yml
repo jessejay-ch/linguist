@@ -1,6 +1,6 @@
 ---
 name: vscode-brightscript-language
-version: ae1859be90e46e55bfb9e193b9a34295b9cbcc71
+version: 1e0495d019ad849a36c1fceb85f16a008939bcf4
 type: git_submodule
 homepage: https://github.com/rokucommunity/vscode-brightscript-language.git
 license: mit

@@ -1,6 +1,6 @@
 ---
 name: bicep
-version: 4cdffe74233faca480cbf9d6de4770aa339865ae
+version: ebc7dce749826cbd60d5863a115bd0ea8a0c31d4
 type: git_submodule
 homepage: https://github.com/azure/bicep
 license: mit

@@ -1,6 +1,6 @@
 ---
 name: vscode-motoko
-version: 23f87c3dd415f3a9c72ff235b01f7777d74eabcb
+version: 3d44efebfb482c28b0e8f5912946092ff554a994
 type: git_submodule
 homepage: https://github.com/dfinity/vscode-motoko.git
 license: apache-2.0
